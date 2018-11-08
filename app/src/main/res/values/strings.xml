@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="book_image_desc">book image</string>
+    <string name="no_title">Book Title not Found</string>
+    <string name="no_author">Book Author not Found</string>
+    <string name="error_image_header">Error Image Header</string>
+    <string name="settings_title">Settings</string>
+    <string name="fav_title">Favorites</string>
+    <string name="implement_interface_alert">must implement onBookSelectCallback Interface</string>
+    <string name="bookimage_clicked_description">Image of the clicked book</string>
+    <string name="price_label">Price</string>
+    <string name="isbn_label">ISBN</string>
+    <string name="author_label">Author</string>
+    <string name="no_isbn">No ISBN available</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="book_price">%1$d %2$s</string>
+    <string name="price_unavailable">Unavailable</string>
+    <string name="placeholder_description">The popularity of the Android market is soaring with no sign of slowing down. The open nature of the Android OS offers programmers the freedom to access the platform\'s capabilities and this straightforward guide walks you through the steps for creating amazing Android applications. Android programming expert Donn Felker explains how to download the SDK, get Eclipse up and running, code Android applications, and submit your finished products to the Android Market. Featuring two sample programs, this introductory book explores everything from the simple basics to more advanced aspects of the Android platform</string>
+    <string name="placeholder_isbn">978-0470770184</string>
+    <string name="placeholder_price">1979 USD</string>
+    <string name="placeholder_author">Donn Felker</string>
+    <string name="placeholder_title">Android Application Development For Dummies</string>
+    <string name="description_unavailable">Description Unavailable</string>
+    <string name="share_image_desc">Share Image Button</string>
+    <string name="fav_books">Books I liked</string>
+    <string name="share_details_title">Share Book Details Via</string>
+    <string name="favorite_books">Favorite Books</string>
+    <string name="book_removed">Book removed from favorites</string>
+    <string name="book_added">Book added to favorites</string>
+    <string name="error_message">%s, swipe down to refresh</string>
+</resources>
