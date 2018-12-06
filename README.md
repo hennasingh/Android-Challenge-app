@@ -17,7 +17,7 @@ master detail flow for tablet mode.
 **Nexus 6**
 
 BookList View | Detail View | Favorite View 
---- | --- | --- | ---
+--- | --- | ---
 ![BookList View](/images/booklist_view.png) | ![Detail](/images/detail_view.png) | ![Favorite](/images/favorite.png)
 
 **Nexus 7(tablet)**
